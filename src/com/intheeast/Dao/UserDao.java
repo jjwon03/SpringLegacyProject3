@@ -1,6 +1,10 @@
 package com.intheeast.Dao;
 
-public class aaaaa {
+public class UserDao {
+	
+	public static void world(){
+		System.out.println("world method");
+	}
 	
 	public static void hello(){
 		System.out.println("hello method");
